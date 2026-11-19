@@ -17,7 +17,7 @@ You need a Propaganda account and a blog you are a member of.
 1. Add the plugin from Claude's directory, or in Claude Code:
 
    ```
-   /plugin marketplace add Ghaith-Ayadi/propaganda-plugin
+   /plugin marketplace add Propaganda-pub/propaganda-plugin
    /plugin install propaganda@propaganda
    ```
 
