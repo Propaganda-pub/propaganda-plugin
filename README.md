@@ -3,7 +3,7 @@
 The Claude plugin for [Propaganda](https://propaganda.pub): say "blog about this" and Claude hands what you worked out to your Propaganda blog, where the Writer drafts the post in your voice for review.
 
 ```
-/plugin marketplace add Ghaith-Ayadi/propaganda-plugin
+/plugin marketplace add Propaganda-pub/propaganda-plugin
 /plugin install propaganda@propaganda
 ```
 
